@@ -10,6 +10,27 @@ Bu proje, [**movies_initial.csv**](https://www.kaggle.com/datasets/samruddhim/im
 * `movies_inital.csv` — Film bilgileri 
 * `README.md` — Projeyi, kullanım talimatlarını ve analiz adımlarını açıklar.
 
+---
+
+## Kullanılan Kütüphaneler
+
+* **pandas** – veri işleme
+* **numpy** – sayısal işlemler
+* **matplotlib & seaborn** – veri görselleştirme
+* **sklearn** – TF-IDF ve cosine similarity işlemleri
+
+---
+
+## Kurulum ve Gereksinimler
+Kurulum için:
+* Projeyi cihazınıza klonlayın:
+```bash 
+git clone https://github.com/MKalbisen/Proje_3
+```
+* Gereksinimleri yükleyin:
+```bash
+pip install -r requirements.txt
+```
 
 ## Proje İçeriği
 
@@ -109,14 +130,6 @@ get_recommendations("The Hacker Wars", 20)
 
 ---
 
-## Kullanılan Kütüphaneler
-
-* **pandas** – veri işleme
-* **numpy** – sayısal işlemler
-* **matplotlib & seaborn** – veri görselleştirme
-* **sklearn** – TF-IDF ve cosine similarity işlemleri
-
----
 
 ## Çıktılar
 
