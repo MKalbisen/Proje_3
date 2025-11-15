@@ -1,4 +1,4 @@
-# 🎬 Film Analiz Projesi
+# Film Analiz Projesi
 
 Bu proje, [**movies_initial.csv**](https://www.kaggle.com/datasets/samruddhim/imdb-movies-analysis) film veri seti üzerinde detaylı analizler yaparak IMDb puanları, türler, diller, yönetmenler, oyuncular ve film öneri sistemi gibi çeşitli konularda bilgi çıkarımı sağlar.
 
