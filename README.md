@@ -9,6 +9,7 @@ Bu proje, [**movies_initial.csv**](https://www.kaggle.com/datasets/samruddhim/im
 * `proje_3.py ve proje_3.ipynb` — Analiz kodları 
 * `movies_inital.csv` — Film bilgileri 
 * `README.md` — Projeyi, kullanım talimatlarını ve analiz adımlarını açıklar.
+* `requirements.txt` — Gereksinimler
 
 ---
 
